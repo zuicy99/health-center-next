@@ -1,4 +1,4 @@
-import { GoogleAnalytics } from '@next/third-parties/google';
+import { GoogleAnalytics, GoogleTagManager } from '@next/third-parties/google';
 import type { Metadata } from 'next';
 import '@/styles/globals.css';
 export const metadata: Metadata = {
@@ -27,6 +27,7 @@ export default function RootLayout({
           name="google-site-verification"
           content="esPabcO4r8FwXJj1N9LPzC26xWfHaGzgyhVrWy2wG_8"
         />
+        <GoogleTagManager gtmId="G-0PVZ78TQB6" />
       </head>
       <body>{children}</body>
     </html>
