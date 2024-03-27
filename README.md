@@ -2,7 +2,7 @@
 
 ## 배포
 
-- vercel(https://health-center-devgreact.vercel.app)
+- vercel(https://health-center-next.vercel.app)
 
 ## 활용 기술
 

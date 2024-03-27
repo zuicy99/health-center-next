@@ -16,18 +16,17 @@ export default function RootLayout({
       <head>
         <meta
           name="naver-site-verification"
-          content="8d0adb20f574d2b9ce583dffb9646df469aecb0f"
+          content="4be8fffc77942832e15424037254a89ab94c613d"
         />
         <link
           rel="canonical"
-          href="https://health-center-devgreact.vercel.app"
+          href="https://health-center-next.vercel.app"
         ></link>
 
         <meta
           name="google-site-verification"
-          content="Q2bHOLs6jaFYy4NK_gCCdUCjf270wQ8zYE_nerDd7lw"
+          content="esPabcO4r8FwXJj1N9LPzC26xWfHaGzgyhVrWy2wG_8"
         />
-        <GoogleAnalytics gaId="G-L57MXLTT6K" />
       </head>
       <body>{children}</body>
     </html>
