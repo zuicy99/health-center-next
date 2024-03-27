@@ -27,7 +27,7 @@ export default function RootLayout({
           name="google-site-verification"
           content="esPabcO4r8FwXJj1N9LPzC26xWfHaGzgyhVrWy2wG_8"
         />
-        <GoogleTagManager gtmId="G-0PVZ78TQB6" />
+        <GoogleTagManager gtmId="G-R6998NSTKW" />
       </head>
       <body>{children}</body>
     </html>
