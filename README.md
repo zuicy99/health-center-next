@@ -4,6 +4,10 @@
 
 - vercel(https://health-center-next.vercel.app)
 
+## 커밋내역
+
+- GitHub(https://github.com/zuicy99/health-center)
+
 ## 활용 기술
 
 - 네이버 지도 API
